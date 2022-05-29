@@ -1,0 +1,7 @@
+  CREATE TABLE product(
+    pid INT,
+    pname VARCHAR(50),
+    pcompany
+    phone VARCHAR(10),
+    price INT
+    );
