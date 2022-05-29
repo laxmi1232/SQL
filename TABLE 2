@@ -1,0 +1,8 @@
+CREATE TABLE faculty (
+  id INT,
+  name varchar(50),
+  course varchar(50),
+  subject varchar(50),
+  gender varchar(1)
+  
+  );
